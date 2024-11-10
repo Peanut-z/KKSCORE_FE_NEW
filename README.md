@@ -1,0 +1,2 @@
+# KKSCORE_FE_NEW
+KKSCORE前代码
