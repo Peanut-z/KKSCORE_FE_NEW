@@ -1,2 +1,2 @@
 # KKSCORE_FE_NEW
-KKSCORE前代码
+KKSCORE客户端web代码
